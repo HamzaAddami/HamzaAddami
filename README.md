@@ -23,7 +23,7 @@
   <a href="https://www.hackerrank.com/profile/hamzaaddami11" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="hackerrank" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:hamzaaddami11@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
 </div>
@@ -93,9 +93,8 @@
 </div>
 
 ## 🎯 Current Projects
-- 🚀 E-commerce platform with React/Redux frontend and Laravel backend
-- 🌐 Social network application with real-time messaging features
-- 📱 Cross-platform mobile application using React Native
+- 🚀 Crowd-Funding applicaton using Django
+- 💵 Banking System app using Spring
 
 ## 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
